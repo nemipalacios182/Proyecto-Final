@@ -1,0 +1,35 @@
+body {
+    background-image: url('../fotos/2dofondo.jpg');
+    background-size: cover;
+    font-size: 25px;
+    color: yellow;
+    background-color: blue;
+
+
+}
+
+.titulo {
+    color: green; 
+    background-color: white;
+    text-align: center;
+    border-style: dotted;
+}
+
+.texto {
+    text-align: center;
+    color: yellow;
+        background-color: blue;
+
+}
+
+.imagen {
+    display: block;
+    margin: 10px auto;
+    width: 30%; }
+
+.boton {
+    display: block;
+    text-align: center;
+    color: greenyellow; 
+
+}

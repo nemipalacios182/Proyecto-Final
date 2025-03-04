@@ -1,0 +1,33 @@
+body {
+    background-image: url('../fotos/cocina.jpeg');
+    background-size: cover;
+    font-size: 25px;
+    color: crimson;
+
+
+}
+
+.titulo {
+    color: red; 
+    background-color: pink;
+    text-align: center;
+    border-style: solid;
+}
+
+.texto {
+    text-align: center;
+    color: crimson;
+
+}
+
+.imagen {
+    display: block;
+    margin: 10px auto;
+    width: 30%; }
+
+.boton {
+    display: block;
+    text-align: center;
+    color: black; 
+
+}

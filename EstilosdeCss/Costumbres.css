@@ -1,0 +1,33 @@
+body {
+    background-image: url('../fotos/iglesiafondp.jpeg');
+    background-size: cover;
+    font-size: 25px;
+    color: #FFD700;;
+    background-color:#FFD700;
+
+}
+
+.titulo {
+    color: #B22222;
+    background-color: white;
+    text-align: center;
+    border-style: dotted;
+}
+
+.texto {
+    text-align: center;
+    color:  #F5F5DC; ;
+
+}
+
+.imagen {
+    display: block;
+    margin: 10px auto;
+    width: 30%; }
+
+.boton {
+    display: block;
+    text-align: center;
+    color: #FFD700;; 
+
+}
